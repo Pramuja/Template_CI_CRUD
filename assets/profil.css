@@ -1,0 +1,14 @@
+.box{
+    width: 450px;
+    height: 620px;
+    background: tomato;
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    color: white;
+    font-family: 'Century Gothic',sans-serif;
+    border-radius: 5px;
+}
+body{
+    background-image: url(aerial.jpg);
+}
